@@ -1,3 +1,1 @@
-## Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom&text=I%am%a%Langha)
