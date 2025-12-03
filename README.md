@@ -1,5 +1,5 @@
 ![header](
-https://capsule-render.vercel.app/api?type=venom&text=Hi😁%20I'm%20Langha-nl-%20Data%20Analyst&fontColor=732cdd&fontSize=40
+https://capsule-render.vercel.app/api?type=venom&text=Hi😁%20I'm%20Langha-nl-%20&fontColor=732cdd&fontSize=40
 )
 
 ![Langha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Langhakim&show_icons=true)
